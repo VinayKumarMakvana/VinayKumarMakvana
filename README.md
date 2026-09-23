@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,30:2563EB,70:38BDF8,100:60A5FA&text=VINAY%20KUMAR%20MAKVANA&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20BCA%20Student&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,30:2563EB,70:38BDF8,100:60A5FA&text=VINAY%20KUMAR%20MAKVANA&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Full%20Stack%20Developer%20AI%20•%20Aspiring%20Software%20%20Engineer%20•%20BCA%20Student&descAlignY=58&animation=fadeIn"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=900&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Artificial+Intelligence+Developer;Building+Real+World+Products;Python+Developer;Java+Developer;Open+Source+Learner;Always+Learning+New+Technologies"/>
