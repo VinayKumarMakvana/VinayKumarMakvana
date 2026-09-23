@@ -45,10 +45,10 @@
 Name              : Vinay Kumar Makvana
 Education         : Bachelor of Computer Applications (BCA)
 Role              : Student
-Specialization    : Artificial Intelligence & GenAI
+Specialization    : Full-Stack Development wit AI
 Currently Working : Building Real World AI Applications
-Learning          : Full Stack Development | AI | System Design
-Goal              : Software Engineer & AI Engineer
+Learning          : Full Stack Development with AI | Software Engineering
+Goal              : Software Engineer & Full-Stack Developer
 Location          : Rajasthan, India 🇮🇳
 ```
 
@@ -78,12 +78,12 @@ Location          : Rajasthan, India 🇮🇳
 ## 💻 Languages
 
 - 🐍 Python
-- ☕ Java
 - ⚡ JavaScript
+- 🔷 TypeScript
+- ⚙️ C++
 - 🌐 HTML5
 - 🎨 CSS3
 - 🗄 SQL
-
 </td>
 
 <td valign="top" width="25%">
@@ -94,8 +94,10 @@ Location          : Rajasthan, India 🇮🇳
 - ✨ Gemini
 - 🤖 Claude
 - 📚 LLMs
-- ⚙ Prompt Engineering
+- ⚙️ Prompt Engineering
 - 🚀 Agentic AI
+- 🔗 LLM API Integration
+- 🧩 RAG & AI Applications
 
 </td>
 
@@ -110,6 +112,7 @@ Location          : Rajasthan, India 🇮🇳
 - Postman
 - Vercel
 - Antigravity
+- 🐙 GitHub Actions
 
 </td>
 
@@ -138,22 +141,24 @@ Location          : Rajasthan, India 🇮🇳
 ## 👨‍💻 Developer Profile
 
 ```text
-💻 Full Stack Development
-🤖 Artificial Intelligence & GenAI
+💻 Full-Stack Development
+🤖 AI Engineering & GenAI
+⚙️ Software Engineering
 🌐 Modern Web Applications
-⚙️ REST APIs
-🧠 Problem Solving
+🔗 REST APIs & Backend Development
+🧠 C++ & Data Structures & Algorithms
+🏗️ System Design & CS Fundamentals
 📚 Continuous Learning
-🚀 Open Source Enthusiast
 ```
 
 ## 🎯 Current Focus
 
-- 🔭 Building AI-Powered Web Applications
-- 🌱 Learning Advanced Full Stack Development
-- 🤖 Exploring LLMs & Agentic AI
-- 🐳 Improving Docker & Deployment Skills
-- 📈 Growing as a Software Engineer
+- 🔭 Building Full-Stack & AI-Powered Applications
+- 🌱 Advancing Full-Stack Development with React, Next.js & Node.js
+- 🤖 Exploring LLMs, AI Integrations & Agentic AI
+- 🧠 Strengthening C++ & Data Structures and Algorithms
+- 🏗️ Learning Software Engineering, System Design & CS Fundamentals
+- 🐳 Improving Docker, Deployment & Backend Engineering
 
 <div align="center">
 
@@ -198,8 +203,9 @@ Continuous Improvement
 ### 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 </p>
 
 ---
@@ -216,9 +222,9 @@ Continuous Improvement
 
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge"/>
 
@@ -226,14 +232,31 @@ Continuous Improvement
 
 ---
 
+### 🧩 Full-Stack Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0F172A?style=for-the-badge"/>
+
+</p>
+
+---
+### 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis"/>
+
+</p>
+
+---
 ### 🛠 Developer Tools
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,vercel"/>
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Antigravity-0F172A?style=for-the-badge"/>
 
 </p>
@@ -267,9 +290,9 @@ Continuous Improvement
 
 | AI | Backend | Frontend | Database | Deployment |
 |:--:|:-------:|:--------:|:--------:|:----------:|
-| OpenAI | Python | HTML | SQL | Vercel |
-| Gemini | Java | CSS | SQLite | Docker |
-| Claude | JavaScript | Responsive UI | MongoDB | GitHub |
+| OpenAI | Python | React | MongoDB | Vercel |
+| Gemini | Node.js | Next.js | PostgreSQL | Docker |
+| Claude | FastAPI | TypeScript | SQL | GitHub Actions |
 
 </div>
 
@@ -279,22 +302,21 @@ Continuous Improvement
 
 # 🚀 What I Love Building
 
-🤖 AI Applications
+💻 Full-Stack Web Applications
 
-🌐 Modern Websites
+🤖 AI-Powered Applications
 
-⚡ REST APIs
+⚡ Scalable REST APIs
 
-📱 Responsive Interfaces
+📱 Modern Responsive Interfaces
 
 🧠 Intelligent Automation
 
-☁ Cloud Ready Applications
+🏗️ Software & Backend Systems
 
-📊 Data Driven Solutions
+☁️ Cloud-Ready Applications
 
-💡 Real World Products
-
+💡 Real-World Products
 </div>
 
 ---
@@ -444,18 +466,19 @@ Continuous Improvement
 
 - 🤖 Agentic AI
 - 🧠 Large Language Models (LLMs)
-- 🚀 Full Stack Development
-- ☁️ Docker & Deployment
-- ⚙️ System Design
-- 💻 Advanced Java
+- 🚀 Advanced Full-Stack Development
+- ⚙️ C++ & Data Structures and Algorithms
+- 🏗️ Software Engineering & System Design
+- ☁️ Docker, Deployment & Cloud Development
+
 
 <h2 align="center">💼 2026 Goals</h2>
 
-- ⭐ 100+ GitHub Repositories
-- ⭐ Build AI SaaS Products
+- ⭐ Build Production-Ready Full-Stack Applications
+- ⭐ Build AI-Powered Products
+- ⭐ Strengthen C++ & DSA Problem Solving
 - ⭐ Contribute to Open Source
-- ⭐ Master Full Stack Development
-- ⭐ Become Software Engineer
+- ⭐ Grow as a Software Engineer
 
 <h2 align="center">📜 Certifications</h2>
 
