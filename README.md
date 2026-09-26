@@ -165,7 +165,7 @@ Location          : Rajasthan, India 🇮🇳
 > **"First, solve the problem. Then, write the code."**  
 > — John Johnson
 
-</div>
+</div align="center">
 
 ## ⚙ Development Workflow
 
